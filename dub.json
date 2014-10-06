@@ -1,0 +1,10 @@
+{
+    "name": "diet-coffee",
+    "description": "Diet filter plugin for coffescript.",
+    "copyright": "Copyright © 2014 -, Martin Nowak",
+    "license": "MIT",
+    "authors": ["Martin Nowak"],
+    "dependencies": {
+        "vibe-d": {"version": "~>0.7", "optional": true}
+    },
+}

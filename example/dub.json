@@ -1,0 +1,11 @@
+{
+    "name": "example",
+    "description": "Using vibe.d with diet-coffee.",
+    "copyright": "Copyright © 2014, dawg",
+    "authors": ["dawg"],
+    "dependencies": {
+	"vibe-d": "~>0.7",
+	"diet-coffee": {"path": ".."}
+    },
+    "versions": ["VibeDefaultMain"]
+}
